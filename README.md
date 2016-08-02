@@ -8,6 +8,3 @@
     2.数据库连接字符串在“\Presentation\BrnShop.Web\App_Data\rdbs.config”文件中
     3.使用账户：brnshop,密码：brnshop登陆后,点击页面右上角的“系统管理”进入后台
     
-版权说明
-===================================
-[蝶影软件开发有限公司](http://www.brnshop.com/) 
